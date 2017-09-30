@@ -1,0 +1,34 @@
+FFD800---yellow
+
+rgba(255,216,0, .5)----yellow with opacity
+
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+58595b----gray
+
+
+<video class="yt-hd-thumbnail-darken" width="1200" height="480" frameborder="0" allowfullscreen>
+  <source src="videos/21C Promo.mp4" type="video/mp4">
+ </video>
+
+ background: #FFD800;
+#bb0000 youtube red
+
+fa-pinterest-p
+fa-flickr
+
+
+rgba(255,216,0, .9)
+rgba(255, 216, 0, 0.52)
+
+
+
+.container {
+    width: 1280px;
+}
+
+
+
+    margin-top: 145px;
