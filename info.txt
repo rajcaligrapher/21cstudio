@@ -14,21 +14,3 @@ font-family: 'Roboto', sans-serif;
  </video>
 
  background: #FFD800;
-#bb0000 youtube red
-
-fa-pinterest-p
-fa-flickr
-
-
-rgba(255,216,0, .9)
-rgba(255, 216, 0, 0.52)
-
-
-
-.container {
-    width: 1280px;
-}
-
-
-
-    margin-top: 145px;
